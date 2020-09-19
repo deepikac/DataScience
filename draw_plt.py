@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import sympy as sy
 
-from taylor_expansion import taylor, taylor_1
+from taylor_expansion import taylor
 
 
 def pltUsingfunc(min=-5, max=5, step=0.5):
